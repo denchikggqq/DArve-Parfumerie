@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "D’Arvé Parfumerie"
+description = "A premium Slovak luxury fragrance storefront for discovering signature scents, browsing new arrivals, and shopping an opening collection."
+version = "1.0.0"
+id = "artifacts/darve-parfumerie"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18499
+
+[services.development]
+run = "pnpm --filter @workspace/darve-parfumerie run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/darve-parfumerie", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/darve-parfumerie/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18499"
+BASE_PATH = "/"

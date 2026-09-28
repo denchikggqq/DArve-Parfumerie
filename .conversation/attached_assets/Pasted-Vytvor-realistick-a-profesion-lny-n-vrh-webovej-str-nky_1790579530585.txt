@@ -1,0 +1,143 @@
+Vytvor realistický a profesionálny návrh webovej stránky pre luxusnú parfumériu D’ARVÉ Parfumerie.
+
+Vizuálny štýl
+
+Luxusný, elegantný a minimalistický dizajn.
+
+Hlavné farby: čierna, tmavá bordová a zlatá.
+
+Zlaté prvky používaj ako elegantné detaily, nie príliš výrazne.
+
+Pozadie prevažne čierne a tmavé, doplnené krémovými alebo béžovými plochami.
+
+Prémiový vzhľad podobný luxusným parfumovým značkám.
+
+Použi elegantnú serifovú typografiu pre názov D’ARVÉ a moderné jednoduché písmo pre ostatný text.
+
+Žiadny lacný, farebný alebo príliš preplnený dizajn.
+
+Celý web má pôsobiť ako skutočná profesionálna stránka luxusnej parfumérie.
+
+Hlavička webu
+
+V hornej časti umiestni logo:
+
+
+
+D’ARVÉ
+PARFUMERIE
+
+
+
+Navigačné menu:
+ÚVOD | O NÁS | PARFUMY | NOVINKY | AKCIE | KONTAKT
+
+
+
+Vpravo ikona vyhľadávania, používateľského účtu a nákupnej tašky.
+
+Hlavná stránka
+
+Veľký hero banner s luxusným flakónom parfumu na tmavom čiernom pozadí so zlatými odleskami.
+
+
+
+Text:
+
+
+
+D’ARVÉ
+THE ART OF FRAGRANCE
+
+
+
+„Objavte svoju vôňu.“
+
+
+
+Tlačidlo:
+OBJAVIŤ PARFUMY
+
+Sekcia Kategórie
+
+Tri elegantné kategórie:
+
+
+
+DÁMSKE PARFUMY
+PÁNSKE PARFUMY
+UNISEX PARFUMY
+
+
+
+Každá kategória má vlastnú fotografiu luxusného flakónu.
+
+Sekcia Novinky
+
+Zobraz 4 prémiové parfumy v elegantných produktových kartách:
+
+
+
+D’ARVÉ ÉLORIA
+D’ARVÉ NOIR
+
+
+
+
+Pri každom produkte zobraz flakón, názov, typ „EAU DE PARFUM“, cenu a tlačidlo ZOBRAZIŤ PRODUKT.
+
+Sekcia O značke
+
+Nadpis:
+
+
+
+D’ARVÉ – THE ART OF FRAGRANCE
+
+
+
+Krátky elegantný text o značke, ktorá vytvára moderné a výrazné vône pre ženy aj mužov.
+
+Akcia
+
+Vytvor výrazný čierny a zlatý banner:
+
+
+
+SLÁVNOSTNÉ OTVORENIE
+
+
+
+-15 %
+
+
+
+„Špeciálna ponuka pri otvorení našej novej prevádzky.“
+
+
+
+Tlačidlo:
+OBJAVIŤ PONUKU
+
+Pätička
+
+Čierna pätička so zlatými detailmi.
+
+
+
+D’ARVÉ PARFUMERIE
+Námestie SNP 12, 974 01 Banská Bystrica
+Po–Pi: 09:00–18:00
+So: 10:00–16:00
+
+
+
+Menu: O nás | Parfumy | Novinky | Akcie | Kontakt
+
+
+
+www.darve-parfum.sk
+
+
+
+Celkový výsledok má vyzerať ako reálny profesionálny e-shop luxusnej parfumérie, nie ako školský projekt. Použi kvalitné produktové fotografie, veľa voľného priestoru, jemné zlaté línie a realistické flakóny.
